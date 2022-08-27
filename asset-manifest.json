@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maazprofile/static/css/main.eda8f319.css",
+    "main.js": "/Maazprofile/static/js/main.059b2f6c.js",
+    "index.html": "/Maazprofile/index.html",
+    "main.eda8f319.css.map": "/Maazprofile/static/css/main.eda8f319.css.map",
+    "main.059b2f6c.js.map": "/Maazprofile/static/js/main.059b2f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda8f319.css",
+    "static/js/main.059b2f6c.js"
+  ]
+}
