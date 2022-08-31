@@ -37,7 +37,7 @@ document.body.className=ctheme;
                 </div>
             </div>
             <div className="social">
-                <NavLink to="/"><i className="fa-brands fa-github"></i></NavLink>
+                <NavLink to="https://github.com/Maaz-hussain-shaikh" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></NavLink>
                 <a href="https://www.instagram.com/maaz_hussain__/?hl=en"  target="_blank" rel="noreferrer"><i className="fab fa-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/maaz-hussain-3687771a7" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
             </div>
